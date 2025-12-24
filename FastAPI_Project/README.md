@@ -1,0 +1,1 @@
+1. ¿ò¼Ü£ºpython3.10+fastapi
